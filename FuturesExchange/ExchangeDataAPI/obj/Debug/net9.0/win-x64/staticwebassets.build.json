@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Tu80Ry2LMVHnsGYyJ1a1wYgdfNASgZAgXz7HkhYdDiQ=",
+  "Source": "ExchangeDataAPI",
+  "BasePath": "_content/ExchangeDataAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

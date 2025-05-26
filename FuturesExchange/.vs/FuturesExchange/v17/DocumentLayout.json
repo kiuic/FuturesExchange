@@ -1,0 +1,952 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4626AA3E-37C5-43FB-8F04-039742826C93}|MatchingEngine\\MatchingEngine.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\matchingengine\\matchingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4626AA3E-37C5-43FB-8F04-039742826C93}|MatchingEngine\\MatchingEngine.csproj|solutionrelative:matchingengine\\matchingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\urstankovic\\AppData\\Local\\Temp\\.vsdbgsrc\\320b9188fbacc562195e00aaab55455af7a50c1ca6aa597ccefc9f71996c7cf6\\ServiceHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchangeclients\\futuresexchangeclients\\tradingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchangeclients\\futuresexchangeclients\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchangeclients\\futuresexchangeclients\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchangeclients\\futuresexchangeclients\\retailtrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchangeclients\\futuresexchangeclients\\marketmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDF47E1-6091-40E0-B9E1-AC4EE11E762D}|TradingClientsShared\\TradingClientsShared.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingclientsshared\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDF47E1-6091-40E0-B9E1-AC4EE11E762D}|TradingClientsShared\\TradingClientsShared.csproj|solutionrelative:tradingclientsshared\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationpackageroot\\futuresexchangeclientspkg\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationpackageroot\\futuresexchangeclientspkg\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\frontend\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingagent\\tradingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|solutionrelative:tradingagent\\tradingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDF47E1-6091-40E0-B9E1-AC4EE11E762D}|TradingClientsShared\\TradingClientsShared.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingclientsshared\\tradingclientsshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DDF47E1-6091-40E0-B9E1-AC4EE11E762D}|TradingClientsShared\\TradingClientsShared.csproj|solutionrelative:tradingclientsshared\\tradingclientsshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\controllers\\temperaturedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\controllers\\temperaturedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangedataapi\\controllers\\exchangedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|solutionrelative:exchangedataapi\\controllers\\exchangedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\temperaturedataapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\temperaturedataapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\temperaturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\temperaturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\citytemperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\citytemperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingapi\\tradingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|solutionrelative:tradingapi\\tradingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangedataapi\\exchangedataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|solutionrelative:exchangedataapi\\exchangedataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationparameters\\local.5node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationparameters\\local.5node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationparameters\\local.1node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationparameters\\local.1node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\applicationpackageroot\\futuresexchangeclientspkg\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\applicationpackageroot\\futuresexchangeclientspkg\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingapi\\controllers\\tradingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|solutionrelative:tradingapi\\controllers\\tradingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingapi\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|solutionrelative:tradingapi\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E030CE-A27E-4CB5-8965-9776CFCBBC5D}|TradingAPI\\TradingAPI.csproj|solutionrelative:tradingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\frontend\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\frontend\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2751F5B-0C6A-4176-813B-417FA281B2C1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\publicexchangedatamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\publicexchangedatamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\internalexchangedatamodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|solutionrelative:internalexchangedatamodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangestate\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|solutionrelative:exchangestate\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\orderbooksnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\orderbooksnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\createtradingclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\createtradingclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\internalexchangedatamodel\\matchingengineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|solutionrelative:internalexchangedatamodel\\matchingengineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\pnlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\pnlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\orderside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\orderside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\orderstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\orderstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\publicexchangedatamodel\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46224A-57BA-4004-B8AC-30A7DCA6BA0F}|PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj|solutionrelative:publicexchangedatamodel\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangestate\\exchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|solutionrelative:exchangestate\\exchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\internalexchangedatamodel\\iexchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|solutionrelative:internalexchangedatamodel\\iexchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ADCA56-2DE0-49D0-9BFD-5E2F5C396A41}|TradingAgent.Interfaces\\TradingAgent.Interfaces.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingagent.interfaces\\itradingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ADCA56-2DE0-49D0-9BFD-5E2F5C396A41}|TradingAgent.Interfaces\\TradingAgent.Interfaces.csproj|solutionrelative:tradingagent.interfaces\\itradingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\internalexchangedatamodel\\imatchingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|solutionrelative:internalexchangedatamodel\\imatchingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\temperaturedata\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48CCA3A5-694B-4CF0-8EF3-BD9AC1264961}|TemperatureData\\TemperatureDataAPI.csproj|solutionrelative:temperaturedata\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\internalexchangedatamodel\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55AE79-7AD3-45F2-BA55-7091DA11FDF9}|InternalExchangeDatamodel\\InternalExchangeDatamodel.csproj|solutionrelative:internalexchangedatamodel\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\futuresexchange\\publishprofiles\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C4DE6B-59A5-41A2-A370-1216C09260E6}|FuturesExchange\\FuturesExchange.sfproj|solutionrelative:futuresexchange\\publishprofiles\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangestate\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BA2CA8A-C8E1-451C-BE43-C42344EE49EF}|ExchangeState\\ExchangeState.csproj|solutionrelative:exchangestate\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\exchangedataapi\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9E8945D-461D-4EDF-8894-939B3CFBD6E9}|ExchangeDataAPI\\ExchangeDataAPI.csproj|solutionrelative:exchangedataapi\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingagent\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|solutionrelative:tradingagent\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\tradingagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29EDBCD-5027-4E46-AD02-0910E6897D38}|TradingAgent\\TradingAgent.csproj|solutionrelative:tradingagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4626AA3E-37C5-43FB-8F04-039742826C93}|MatchingEngine\\MatchingEngine.csproj|c:\\users\\urstankovic\\source\\repos\\futuresexchange\\matchingengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4626AA3E-37C5-43FB-8F04-039742826C93}|MatchingEngine\\MatchingEngine.csproj|solutionrelative:matchingengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradingClient.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\TradingClient.cs",
+              "RelativeDocumentMoniker": "..\\FuturesExchangeClients\\FuturesExchangeClients\\TradingClient.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\TradingClient.cs",
+              "RelativeToolTip": "..\\FuturesExchangeClients\\FuturesExchangeClients\\TradingClient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:20:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shared.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\Shared.cs",
+              "RelativeDocumentMoniker": "..\\FuturesExchangeClients\\FuturesExchangeClients\\Shared.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\Shared.cs",
+              "RelativeToolTip": "..\\FuturesExchangeClients\\FuturesExchangeClients\\Shared.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:20:54.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\Runner.cs",
+              "RelativeDocumentMoniker": "..\\FuturesExchangeClients\\FuturesExchangeClients\\Runner.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\Runner.cs",
+              "RelativeToolTip": "..\\FuturesExchangeClients\\FuturesExchangeClients\\Runner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:20:50.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarketMaker.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\MarketMaker.cs",
+              "RelativeDocumentMoniker": "..\\FuturesExchangeClients\\FuturesExchangeClients\\MarketMaker.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\MarketMaker.cs",
+              "RelativeToolTip": "..\\FuturesExchangeClients\\FuturesExchangeClients\\MarketMaker.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:20:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RetailTrader.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\RetailTrader.cs",
+              "RelativeDocumentMoniker": "..\\FuturesExchangeClients\\FuturesExchangeClients\\RetailTrader.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchangeClients\\FuturesExchangeClients\\RetailTrader.cs",
+              "RelativeToolTip": "..\\FuturesExchangeClients\\FuturesExchangeClients\\RetailTrader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:20:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\Config\\Settings.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\Config\\Settings.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\Config\\Settings.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\Config\\Settings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-21T22:16:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\AppData\\Local\\Temp\\.vsdbgsrc\\320b9188fbacc562195e00aaab55455af7a50c1ca6aa597ccefc9f71996c7cf6\\ServiceHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\320b9188fbacc562195e00aaab55455af7a50c1ca6aa597ccefc9f71996c7cf6\\ServiceHelper.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\AppData\\Local\\Temp\\.vsdbgsrc\\320b9188fbacc562195e00aaab55455af7a50c1ca6aa597ccefc9f71996c7cf6\\ServiceHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\320b9188fbacc562195e00aaab55455af7a50c1ca6aa597ccefc9f71996c7cf6\\ServiceHelper.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwGEAAABIAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:01:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExchangeDataAPI.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\ExchangeDataAPI.cs",
+              "RelativeDocumentMoniker": "ExchangeDataAPI\\ExchangeDataAPI.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\ExchangeDataAPI.cs",
+              "RelativeToolTip": "ExchangeDataAPI\\ExchangeDataAPI.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:48:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TemperatureData.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\TemperatureData.cs",
+              "RelativeDocumentMoniker": "TemperatureData\\TemperatureData.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\TemperatureData.cs",
+              "RelativeToolTip": "TemperatureData\\TemperatureData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:18:12.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "Frontend\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "Frontend\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-12T08:32:02.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Frontend.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\Frontend.cs",
+              "RelativeDocumentMoniker": "Frontend\\Frontend.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\Frontend.cs",
+              "RelativeToolTip": "Frontend\\Frontend.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:28:37.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceEventSource.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\ServiceEventSource.cs",
+              "RelativeDocumentMoniker": "Frontend\\ServiceEventSource.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\ServiceEventSource.cs",
+              "RelativeToolTip": "Frontend\\ServiceEventSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:28:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:28:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateTradingClientRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CreateTradingClientRequest.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\CreateTradingClientRequest.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CreateTradingClientRequest.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\CreateTradingClientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:26:28.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\ServiceManifest.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationPackageRoot\\FuturesExchangeClientsPkg\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-09T09:35:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TradingClientsShared.csproj",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingClientsShared\\TradingClientsShared.csproj",
+              "RelativeDocumentMoniker": "TradingClientsShared\\TradingClientsShared.csproj",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingClientsShared\\TradingClientsShared.csproj",
+              "RelativeToolTip": "TradingClientsShared\\TradingClientsShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T08:45:17.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shared.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingClientsShared\\Shared.cs",
+              "RelativeDocumentMoniker": "TradingClientsShared\\Shared.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingClientsShared\\Shared.cs",
+              "RelativeToolTip": "TradingClientsShared\\Shared.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwEkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:46:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TemperatureDataAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\TemperatureDataAPI.csproj",
+              "RelativeDocumentMoniker": "TemperatureData\\TemperatureDataAPI.csproj",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\TemperatureDataAPI.csproj",
+              "RelativeToolTip": "TemperatureData\\TemperatureDataAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T07:11:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PnlResult.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\PnlResult.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\PnlResult.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\PnlResult.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\PnlResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:05:26.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PublicExchangeDatamodel.csproj",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj",
+              "RelativeToolTip": "PublicExchangeDatamodel\\PublicExchangeDatamodel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T16:15:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TemperatureDataController.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\Controllers\\TemperatureDataController.cs",
+              "RelativeDocumentMoniker": "TemperatureData\\Controllers\\TemperatureDataController.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\Controllers\\TemperatureDataController.cs",
+              "RelativeToolTip": "TemperatureData\\Controllers\\TemperatureDataController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:47:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchingEngine.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\MatchingEngine\\MatchingEngine.cs",
+              "RelativeDocumentMoniker": "MatchingEngine\\MatchingEngine.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\MatchingEngine\\MatchingEngine.cs*",
+              "RelativeToolTip": "MatchingEngine\\MatchingEngine.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:35:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "TemperatureData\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "TemperatureData\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T14:13:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureData\\Program.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\Program.cs",
+              "RelativeToolTip": "TemperatureData\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:13:03.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServiceEventSource.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\ServiceEventSource.cs",
+              "RelativeDocumentMoniker": "TemperatureData\\ServiceEventSource.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TemperatureData\\ServiceEventSource.cs",
+              "RelativeToolTip": "TemperatureData\\ServiceEventSource.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:12:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "ExchangeState\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "ExchangeState\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T14:12:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Cloud.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\PublishProfiles\\Cloud.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\PublishProfiles\\Cloud.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\PublishProfiles\\Cloud.xml",
+              "RelativeToolTip": "FuturesExchange\\PublishProfiles\\Cloud.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T14:12:30.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Local.5Node.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Local.5Node.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationParameters\\Local.5Node.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Local.5Node.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationParameters\\Local.5Node.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T14:12:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cloud.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Cloud.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationParameters\\Cloud.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Cloud.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationParameters\\Cloud.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T14:12:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityTemperature.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CityTemperature.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\CityTemperature.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CityTemperature.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\CityTemperature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:06:45.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ExchangeState.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\ExchangeState.cs",
+              "RelativeDocumentMoniker": "ExchangeState\\ExchangeState.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\ExchangeState.cs",
+              "RelativeToolTip": "ExchangeState\\ExchangeState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:03:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Settings.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\PackageRoot\\Config\\Settings.xml",
+              "RelativeDocumentMoniker": "ExchangeState\\PackageRoot\\Config\\Settings.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeState\\PackageRoot\\Config\\Settings.xml",
+              "RelativeToolTip": "ExchangeState\\PackageRoot\\Config\\Settings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T12:45:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IMatchingEngine.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\IMatchingEngine.cs",
+              "RelativeDocumentMoniker": "InternalExchangeDatamodel\\IMatchingEngine.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\IMatchingEngine.cs",
+              "RelativeToolTip": "InternalExchangeDatamodel\\IMatchingEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:48:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderSide.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderSide.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderSide.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderSide.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderSide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:31:34.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderStatus.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:12:56.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderStatusResponse.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderStatusResponse.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderStatusResponse.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderStatusResponse.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA2wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:11:46.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderType.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderType.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderType.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderType.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:31:22.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-05T10:15:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MatchingEngineResponse.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\MatchingEngineResponse.cs",
+              "RelativeDocumentMoniker": "InternalExchangeDatamodel\\MatchingEngineResponse.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\MatchingEngineResponse.cs",
+              "RelativeToolTip": "InternalExchangeDatamodel\\MatchingEngineResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:33:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CancelOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CancelOrderRequest.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\CancelOrderRequest.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\CancelOrderRequest.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\CancelOrderRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:59:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderRequest.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:00:08.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderBookSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderBookSnapshot.cs",
+              "RelativeDocumentMoniker": "PublicExchangeDatamodel\\OrderBookSnapshot.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\PublicExchangeDatamodel\\OrderBookSnapshot.cs",
+              "RelativeToolTip": "PublicExchangeDatamodel\\OrderBookSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:28:01.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IExchangeState.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\IExchangeState.cs",
+              "RelativeDocumentMoniker": "InternalExchangeDatamodel\\IExchangeState.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\IExchangeState.cs",
+              "RelativeToolTip": "InternalExchangeDatamodel\\IExchangeState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:30:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExchangeDataController.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\Controllers\\ExchangeDataController.cs",
+              "RelativeDocumentMoniker": "ExchangeDataAPI\\Controllers\\ExchangeDataController.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\Controllers\\ExchangeDataController.cs",
+              "RelativeToolTip": "ExchangeDataAPI\\Controllers\\ExchangeDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:24:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "ExchangeDataAPI\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\ExchangeDataAPI\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "ExchangeDataAPI\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T10:13:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TradingController.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\Controllers\\TradingController.cs",
+              "RelativeDocumentMoniker": "TradingAPI\\Controllers\\TradingController.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\Controllers\\TradingController.cs",
+              "RelativeToolTip": "TradingAPI\\Controllers\\TradingController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:51:29.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradingAgent.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\TradingAgent.cs",
+              "RelativeDocumentMoniker": "TradingAgent\\TradingAgent.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\TradingAgent.cs",
+              "RelativeToolTip": "TradingAgent\\TradingAgent.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:14:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\Order.cs",
+              "RelativeDocumentMoniker": "InternalExchangeDatamodel\\Order.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\Order.cs",
+              "RelativeToolTip": "InternalExchangeDatamodel\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:47:48.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\Trade.cs",
+              "RelativeDocumentMoniker": "InternalExchangeDatamodel\\Trade.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\InternalExchangeDatamodel\\Trade.cs",
+              "RelativeToolTip": "InternalExchangeDatamodel\\Trade.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:08:49.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TradingAPI.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\TradingAPI.cs",
+              "RelativeDocumentMoniker": "TradingAPI\\TradingAPI.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\TradingAPI.cs",
+              "RelativeToolTip": "TradingAPI\\TradingAPI.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:51:00.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ITradingAgent.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent.Interfaces\\ITradingAgent.cs",
+              "RelativeDocumentMoniker": "TradingAgent.Interfaces\\ITradingAgent.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent.Interfaces\\ITradingAgent.cs",
+              "RelativeToolTip": "TradingAgent.Interfaces\\ITradingAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:19:28.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Local.1Node.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Local.1Node.xml",
+              "RelativeDocumentMoniker": "FuturesExchange\\ApplicationParameters\\Local.1Node.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\FuturesExchange\\ApplicationParameters\\Local.1Node.xml",
+              "RelativeToolTip": "FuturesExchange\\ApplicationParameters\\Local.1Node.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-05T10:21:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TradingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\Program.cs",
+              "RelativeToolTip": "TradingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:51:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Settings.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\PackageRoot\\Config\\Settings.xml",
+              "RelativeDocumentMoniker": "TradingAgent\\PackageRoot\\Config\\Settings.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\PackageRoot\\Config\\Settings.xml",
+              "RelativeToolTip": "TradingAgent\\PackageRoot\\Config\\Settings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-04T18:18:49.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\Program.cs",
+              "RelativeDocumentMoniker": "TradingAgent\\Program.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAgent\\Program.cs",
+              "RelativeToolTip": "TradingAgent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:13:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "TradingAPI\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\TradingAPI\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "TradingAPI\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-04T18:02:54.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\MatchingEngine\\Program.cs",
+              "RelativeDocumentMoniker": "MatchingEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\MatchingEngine\\Program.cs",
+              "RelativeToolTip": "MatchingEngine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:48:58.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WDm/ce5jkiYGmKVH2ySdlZqyUJxs8YYHteUl79H7X5w=",
+  "Source": "TradingAPI",
+  "BasePath": "_content/TradingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

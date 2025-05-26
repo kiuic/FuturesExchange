@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "PackagePath": "staticwebassets\\OrderBooks\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "PackagePath": "staticwebassets\\PNL\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "PackagePath": "staticwebassets\\TradableCities\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "PackagePath": "staticwebassets\\index.csr.html"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "PackagePath": "staticwebassets\\main-QGFEOFXW.js"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "PackagePath": "staticwebassets\\styles-VGL67VEM.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x64\\staticwebassets\\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x64\\staticwebassets\\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x64\\staticwebassets\\msbuild.build.Frontend.props",
+      "PackagePath": "build\\Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Frontend.props",
+      "PackagePath": "buildTransitive\\Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

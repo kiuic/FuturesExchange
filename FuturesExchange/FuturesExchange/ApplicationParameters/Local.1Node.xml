@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/FuturesExchange" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="Frontend_InstanceCount" Value="1" />
+    <Parameter Name="Frontend_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="TemperatureDataAPI_InstanceCount" Value="1" />
+    <Parameter Name="TemperatureDataAPI_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ExchangeDataAPI_InstanceCount" Value="1" />
+    <Parameter Name="ExchangeDataAPI_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ExchangeState_InstanceCount" Value="1" />
+    <Parameter Name="TradingAPI_InstanceCount" Value="1" />
+    <Parameter Name="TradingAPI_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="MatchingEngine_MinReplicaSetSize" Value="1" />
+    <Parameter Name="MatchingEngine_TargetReplicaSetSize" Value="1" />
+    <Parameter Name="TradingAgentActorService_PartitionCount" Value="1" />
+    <Parameter Name="TradingAgentActorService_TargetReplicaSetSize" Value="1" />
+    <Parameter Name="TradingAgentActorService_MinReplicaSetSize" Value="1" />
+  </Parameters>
+</Application>

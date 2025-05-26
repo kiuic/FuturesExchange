@@ -1,0 +1,11 @@
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\bin\Debug\net8.0\PublicExchangeDatamodel.deps.json
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\bin\Debug\net8.0\PublicExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\bin\Debug\net8.0\PublicExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.AssemblyInfoInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.AssemblyInfo.cs
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.csproj.CoreCompileInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\refint\PublicExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\PublicExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\PublicExchangeDatamodel\obj\Debug\net8.0\ref\PublicExchangeDatamodel.dll

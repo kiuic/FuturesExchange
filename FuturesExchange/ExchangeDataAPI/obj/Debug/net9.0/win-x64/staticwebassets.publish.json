@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YIHKxoxbu2fLXoD8nZHEY5NhI2KY42rRMPXB9wqqJPk=",
+  "Source": "ExchangeDataAPI",
+  "BasePath": "_content/ExchangeDataAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

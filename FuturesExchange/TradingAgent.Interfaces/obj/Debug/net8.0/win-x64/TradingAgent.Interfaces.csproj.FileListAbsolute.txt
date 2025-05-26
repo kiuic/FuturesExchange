@@ -1,0 +1,17 @@
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\TradingAgent.Interfaces.deps.json
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\TradingAgent.Interfaces.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\TradingAgent.Interfaces.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\InternalExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\PublicExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\InternalExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\bin\Debug\net8.0\win-x64\PublicExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.csproj.AssemblyReference.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.AssemblyInfoInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.AssemblyInfo.cs
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingA.9B635ED6.Up2Date
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\refint\TradingAgent.Interfaces.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\TradingAgent.Interfaces.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\TradingAgent.Interfaces\obj\Debug\net8.0\win-x64\ref\TradingAgent.Interfaces.dll

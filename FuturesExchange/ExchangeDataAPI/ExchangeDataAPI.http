@@ -1,0 +1,6 @@
+@ExchangeDataAPI_HostAddress = http://localhost:5247
+
+GET {{ExchangeDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

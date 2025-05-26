@@ -1,0 +1,5215 @@
+{
+  "Version": 1,
+  "Hash": "gudQ8WPXZnnuIwifVvFHp9mvAodtgzq7DNXkrdVi8mw=",
+  "Source": "Frontend",
+  "BasePath": "_content/Frontend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Frontend\\wwwroot",
+      "Source": "Frontend",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\0zmt51y6io-d9z96epitv.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "PNL/index#[.{fingerprint=d9z96epitv}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "euf6nwbtnz",
+      "Integrity": "SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\2o94e299qm-kpheq2cj6i.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "styles-VGL67VEM#[.{fingerprint=kpheq2cj6i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fon9vs6ihq",
+      "Integrity": "Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\8g21y0nngy-x8xpi21ica.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "TradableCities/index#[.{fingerprint=x8xpi21ica}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f611dsfwxf",
+      "Integrity": "N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\iz0j1ekpxm-vagikyz9qx.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "favicon#[.{fingerprint=vagikyz9qx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7hqb4lxq1m",
+      "Integrity": "NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\0zmt51y6io-d9z96epitv.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "PNL/index#[.{fingerprint=d9z96epitv}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "vh0mhnicoe",
+      "Integrity": "/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\2o94e299qm-kpheq2cj6i.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "styles-VGL67VEM#[.{fingerprint=kpheq2cj6i}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "716w409gcb",
+      "Integrity": "dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\8g21y0nngy-x8xpi21ica.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "TradableCities/index#[.{fingerprint=x8xpi21ica}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "tj2x60p56a",
+      "Integrity": "195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\iz0j1ekpxm-vagikyz9qx.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "favicon#[.{fingerprint=vagikyz9qx}]?.ico.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "z44oi65n2z",
+      "Integrity": "DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\qymzib2lff-hte5yvz133.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "OrderBooks/index#[.{fingerprint=hte5yvz133}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ff7f55wngv",
+      "Integrity": "pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\r2w2hwu99k-duhrils855.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "main-QGFEOFXW#[.{fingerprint=duhrils855}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "lxdokahq8a",
+      "Integrity": "dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\tkglbponru-39tegmrjtp.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint=39tegmrjtp}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "txwjkp4l8q",
+      "Integrity": "f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\uxkb3ogmuq-f97qx14ui7.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index.csr#[.{fingerprint=f97qx14ui7}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "4a0ctwlcex",
+      "Integrity": "bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\yf668ep4vk-34vpdncme0.br",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index#[.{fingerprint=34vpdncme0}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "hxv40jytta",
+      "Integrity": "W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\qymzib2lff-hte5yvz133.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "OrderBooks/index#[.{fingerprint=hte5yvz133}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fqqqg9fy9v",
+      "Integrity": "102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\r2w2hwu99k-duhrils855.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "main-QGFEOFXW#[.{fingerprint=duhrils855}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ptj1p4c11y",
+      "Integrity": "Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\tkglbponru-39tegmrjtp.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint=39tegmrjtp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hpbgzmjzdr",
+      "Integrity": "RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\uxkb3ogmuq-f97qx14ui7.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index.csr#[.{fingerprint=f97qx14ui7}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wtfc1x2qrv",
+      "Integrity": "JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\yf668ep4vk-34vpdncme0.gz",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index#[.{fingerprint=34vpdncme0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ad73knb4vb",
+      "Integrity": "DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index.csr#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f97qx14ui7",
+      "Integrity": "vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.csr.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "34vpdncme0",
+      "Integrity": "PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "main-QGFEOFXW#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "duhrils855",
+      "Integrity": "6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main-QGFEOFXW.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "OrderBooks/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hte5yvz133",
+      "Integrity": "RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OrderBooks\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "PNL/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d9z96epitv",
+      "Integrity": "wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PNL\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39tegmrjtp",
+      "Integrity": "adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "styles-VGL67VEM#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kpheq2cj6i",
+      "Integrity": "KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles-VGL67VEM.css"
+    },
+    {
+      "Identity": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "TradableCities/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x8xpi21ica",
+      "Integrity": "kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TradableCities\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\iz0j1ekpxm-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000235682300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\iz0j1ekpxm-vagikyz9qx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000270489586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\iz0j1ekpxm-vagikyz9qx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\iz0j1ekpxm-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\iz0j1ekpxm-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000235682300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\iz0j1ekpxm-vagikyz9qx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000270489586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\iz0j1ekpxm-vagikyz9qx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\iz0j1ekpxm-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NR1FQBEucAvKbsWGsjKa7GDjwTNvmXgzs4TApstPfTA="
+        }
+      ]
+    },
+    {
+      "Route": "index.34vpdncme0.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\yf668ep4vk-34vpdncme0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34vpdncme0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.34vpdncme0.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\yf668ep4vk-34vpdncme0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000457038391"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34vpdncme0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.34vpdncme0.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34vpdncme0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.34vpdncme0.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\yf668ep4vk-34vpdncme0.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34vpdncme0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo="
+        }
+      ]
+    },
+    {
+      "Route": "index.34vpdncme0.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\yf668ep4vk-34vpdncme0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34vpdncme0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.f97qx14ui7.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\uxkb3ogmuq-f97qx14ui7.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002173913043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f97qx14ui7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.csr.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.f97qx14ui7.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\uxkb3ogmuq-f97qx14ui7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001555209953"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f97qx14ui7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.csr.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.f97qx14ui7.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f97qx14ui7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.csr.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.f97qx14ui7.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\uxkb3ogmuq-f97qx14ui7.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f97qx14ui7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.csr.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.f97qx14ui7.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\uxkb3ogmuq-f97qx14ui7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f97qx14ui7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.csr.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\uxkb3ogmuq-f97qx14ui7.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002173913043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\uxkb3ogmuq-f97qx14ui7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001555209953"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.csr.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTOfDTw8mgfKYSXOdzcWfxLDe9c0ubwGc/JlhtjiFxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\uxkb3ogmuq-f97qx14ui7.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJmNIEu1Nq9CVTbfk2GgybZrSpVmNLN5uMbbx1dOKuk="
+        }
+      ]
+    },
+    {
+      "Route": "index.csr.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\uxkb3ogmuq-f97qx14ui7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JECZRwAclSkY9yswBx02+XaSSopXOsagvo2+k7csUlo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\yf668ep4vk-34vpdncme0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\yf668ep4vk-34vpdncme0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000457038391"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PW0fPQarTC730deIo+Ms+d2sO/DsgyVhRhZfZUrOe6I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\yf668ep4vk-34vpdncme0.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/k/XRChrBSIS4tvWLpxhYtrAn/Tnfj4LVqrhsO6KEo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\yf668ep4vk-34vpdncme0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DkhBgIg0XZ0c8V72M5uTF3f018ooh1wQwjoUA5oc4Rw="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.duhrils855.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\r2w2hwu99k-duhrils855.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000013975068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71555"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhrils855"
+        },
+        {
+          "Name": "label",
+          "Value": "main-QGFEOFXW.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.duhrils855.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\r2w2hwu99k-duhrils855.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012342631"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81019"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhrils855"
+        },
+        {
+          "Name": "label",
+          "Value": "main-QGFEOFXW.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.duhrils855.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhrils855"
+        },
+        {
+          "Name": "label",
+          "Value": "main-QGFEOFXW.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.duhrils855.js.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\r2w2hwu99k-duhrils855.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhrils855"
+        },
+        {
+          "Name": "label",
+          "Value": "main-QGFEOFXW.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.duhrils855.js.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\r2w2hwu99k-duhrils855.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhrils855"
+        },
+        {
+          "Name": "label",
+          "Value": "main-QGFEOFXW.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\r2w2hwu99k-duhrils855.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000013975068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71555"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\r2w2hwu99k-duhrils855.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012342631"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81019"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\main-QGFEOFXW.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+bOJPCWQISQZVhSsH8z3F6lg0r0ua4P6RvDS9crEg0="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.js.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\r2w2hwu99k-duhrils855.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxehqiJEvvv+0jJUSfYALKWHODq3GHNH1sI6AjaUXoE="
+        }
+      ]
+    },
+    {
+      "Route": "main-QGFEOFXW.js.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\r2w2hwu99k-duhrils855.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5yXujYI112y9Pwm6YaobRJDljRInv1ZA08Bus0Cqe8="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.hte5yvz133.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\qymzib2lff-hte5yvz133.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000912408759"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hte5yvz133"
+        },
+        {
+          "Name": "label",
+          "Value": "OrderBooks/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.hte5yvz133.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\qymzib2lff-hte5yvz133.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000695410292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hte5yvz133"
+        },
+        {
+          "Name": "label",
+          "Value": "OrderBooks/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.hte5yvz133.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hte5yvz133"
+        },
+        {
+          "Name": "label",
+          "Value": "OrderBooks/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.hte5yvz133.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\qymzib2lff-hte5yvz133.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hte5yvz133"
+        },
+        {
+          "Name": "label",
+          "Value": "OrderBooks/index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.hte5yvz133.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\qymzib2lff-hte5yvz133.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hte5yvz133"
+        },
+        {
+          "Name": "label",
+          "Value": "OrderBooks/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\qymzib2lff-hte5yvz133.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000912408759"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\qymzib2lff-hte5yvz133.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000695410292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\OrderBooks\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYgh+Jt9XTEDFw66czlm6GR7TZNkCA7MyXGLa3T40rw="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\qymzib2lff-hte5yvz133.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pROKdZ63x9mzjApZP8n72XJ3tDAwTXcLurK7Jy+NZtc="
+        }
+      ]
+    },
+    {
+      "Route": "OrderBooks/index.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\qymzib2lff-hte5yvz133.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-102IONuXiE5s5qr6+w1XKOautMGpD49oS6jgJNTCkEU="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.d9z96epitv.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\0zmt51y6io-d9z96epitv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000639386189"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9z96epitv"
+        },
+        {
+          "Name": "label",
+          "Value": "PNL/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.d9z96epitv.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\0zmt51y6io-d9z96epitv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000829875519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9z96epitv"
+        },
+        {
+          "Name": "label",
+          "Value": "PNL/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.d9z96epitv.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9z96epitv"
+        },
+        {
+          "Name": "label",
+          "Value": "PNL/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.d9z96epitv.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\0zmt51y6io-d9z96epitv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9z96epitv"
+        },
+        {
+          "Name": "label",
+          "Value": "PNL/index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.d9z96epitv.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\0zmt51y6io-d9z96epitv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9z96epitv"
+        },
+        {
+          "Name": "label",
+          "Value": "PNL/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\0zmt51y6io-d9z96epitv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000639386189"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\0zmt51y6io-d9z96epitv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000829875519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\PNL\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wehHrfp1QTczY8/hMZw6kPCn9DXCMmKMryAcHmX2KZw="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\0zmt51y6io-d9z96epitv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/cbdr/R93hu5VIrQ/5jKKwe1s8QmzNvSAE80rWZkrz4="
+        }
+      ]
+    },
+    {
+      "Route": "PNL/index.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\0zmt51y6io-d9z96epitv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SoNDpQUnM73xJXgw5H+HaQyjkTEJbJ5GY2V6/G+aoe4="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\tkglbponru-39tegmrjtp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000088636767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\tkglbponru-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080580177"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12409"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\tkglbponru-39tegmrjtp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\tkglbponru-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\tkglbponru-39tegmrjtp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000088636767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\tkglbponru-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080580177"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12409"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\tkglbponru-39tegmrjtp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\tkglbponru-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaqgnGK2lZB0zOrqtAiqrts0bpDxpLDmecAXRRXDm5o="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\2o94e299qm-kpheq2cj6i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002564102564"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\2o94e299qm-kpheq2cj6i.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.css.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\2o94e299qm-kpheq2cj6i.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.css.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\2o94e299qm-kpheq2cj6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.kpheq2cj6i.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\2o94e299qm-kpheq2cj6i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002564102564"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpheq2cj6i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-VGL67VEM.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.kpheq2cj6i.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\2o94e299qm-kpheq2cj6i.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpheq2cj6i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-VGL67VEM.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.kpheq2cj6i.css",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\styles-VGL67VEM.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpheq2cj6i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-VGL67VEM.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHMbiLVWELtmu9i4Jnx8AgV1gwhdj8sUpBhvkKN3mQw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.kpheq2cj6i.css.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\2o94e299qm-kpheq2cj6i.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpheq2cj6i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-VGL67VEM.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQVP/rJUqKmh4Gw8aM+bwb+z70Jqda8EBeMNDIgxCbw="
+        }
+      ]
+    },
+    {
+      "Route": "styles-VGL67VEM.kpheq2cj6i.css.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\2o94e299qm-kpheq2cj6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpheq2cj6i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-VGL67VEM.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hy9PJT7bZGkWbDqDKOaHGW3l+t7A/JaB7YJlDVdnuZc="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\8g21y0nngy-x8xpi21ica.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000640204866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\8g21y0nngy-x8xpi21ica.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000833333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1199"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\8g21y0nngy-x8xpi21ica.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\8g21y0nngy-x8xpi21ica.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.x8xpi21ica.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\8g21y0nngy-x8xpi21ica.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000640204866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8xpi21ica"
+        },
+        {
+          "Name": "label",
+          "Value": "TradableCities/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.x8xpi21ica.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\8g21y0nngy-x8xpi21ica.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000833333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1199"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8xpi21ica"
+        },
+        {
+          "Name": "label",
+          "Value": "TradableCities/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.x8xpi21ica.html",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\wwwroot\\TradableCities\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8xpi21ica"
+        },
+        {
+          "Name": "label",
+          "Value": "TradableCities/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZ4Ig3YKqXJEQ9VCtZRcQdMFe+HWVDDkAnLL8luvG7Y="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.x8xpi21ica.html.br",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\publish\\8g21y0nngy-x8xpi21ica.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8xpi21ica"
+        },
+        {
+          "Name": "label",
+          "Value": "TradableCities/index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-195Q+t7uK0bMzidvz8jonpxA0pv/+VPXuzERGecIAeM="
+        }
+      ]
+    },
+    {
+      "Route": "TradableCities/index.x8xpi21ica.html.gz",
+      "AssetFile": "C:\\Users\\urstankovic\\source\\repos\\FuturesExchange\\Frontend\\obj\\Debug\\net9.0\\win-x64\\compressed\\8g21y0nngy-x8xpi21ica.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 10:44:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8xpi21ica"
+        },
+        {
+          "Name": "label",
+          "Value": "TradableCities/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8me+TYokdsxw13mF9nA/rveEFGu+gtoOfQgFs8SUyw="
+        }
+      ]
+    }
+  ]
+}

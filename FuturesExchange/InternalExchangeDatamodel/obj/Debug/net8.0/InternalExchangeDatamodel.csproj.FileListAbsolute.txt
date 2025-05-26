@@ -1,0 +1,15 @@
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\bin\Debug\net8.0\InternalExchangeDatamodel.deps.json
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\bin\Debug\net8.0\InternalExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\bin\Debug\net8.0\InternalExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\bin\Debug\net8.0\PublicExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\bin\Debug\net8.0\PublicExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.csproj.AssemblyReference.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.AssemblyInfoInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.AssemblyInfo.cs
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.csproj.CoreCompileInputs.cache
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\Internal.5D6B6995.Up2Date
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\refint\InternalExchangeDatamodel.dll
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\InternalExchangeDatamodel.pdb
+C:\Users\urstankovic\source\repos\FuturesExchange\InternalExchangeDatamodel\obj\Debug\net8.0\ref\InternalExchangeDatamodel.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "k38bbYmXHd/HsRoIADdhvMg5YzvtYUEqYwyBhn2AyFM=",
+  "Source": "TradingAPI",
+  "BasePath": "_content/TradingAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
